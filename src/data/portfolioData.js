@@ -10,8 +10,8 @@ export const profile = {
   email: "pandiyarajan.sde@gmail.com",
   phone: "+91 95665 30553",
   github: "https://github.com/msk312508",
-  linkedin: "https://linkedin.com/in/pandiyajan08",
-  resumeUrl: "#", // link to a hosted PDF of your resume
+  linkedin: "https://www.linkedin.com/in/pandiyarajan08/",
+  resumeUrl: "/resume/Pandiyarajan.pdf", // link to a hosted PDF of your resume
   summary: "Full Stack Developer with 2+ years of experience building scalable web applications using the MERN Stack, Python, and Frappe (ERPNext). Skilled in developing ERP solutions, responsive user interfaces, and business workflow automation with a strong focus on performance optimization and problem-solving.",
   stats: [
     { label: "Years Experience", value: "2+" },
